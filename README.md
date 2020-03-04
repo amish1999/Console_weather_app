@@ -1,7 +1,7 @@
 # Console_weather_app
 A weather app to show real time weather through Command Prompt
 
-![Image of Landing Page](https://github.com/amish1999/weather_app/blob/master/Screenshot%20(96).png)
+![Image of Landing Page](https://github.com/amish1999/Console_weather_app/blob/master/Screenshot%20(99).png)
 
 #### Built with:
 - [Node_JS](https://nodejs.org/en/)
